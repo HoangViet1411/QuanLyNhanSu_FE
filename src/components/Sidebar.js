@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import logo from '../assets/logo.png'; // Đảm bảo bạn có file logo tại src/assets/logo.png
+import logo from '../assets/logo.png';
 
 const Sidebar = () => {
   const navigate = useNavigate();
